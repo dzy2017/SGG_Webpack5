@@ -1,1 +1,0 @@
-const e={key:"v-860cdcba",path:"/origin/summary.html",title:"\u603B\u7ED3",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"DaiZhengYang",email:"10981505+DaiZhengYang@user.noreply.gitee.com",commits:1}]},filePathRelative:"origin/summary.md"};export{e as data};
