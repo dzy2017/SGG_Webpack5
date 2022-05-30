@@ -43,6 +43,14 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "DaiZhengYang",
+        "email": "10981505+DaiZhengYang@user.noreply.gitee.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "base/image.md"
 }

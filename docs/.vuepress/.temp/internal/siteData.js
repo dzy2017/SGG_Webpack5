@@ -1,5 +1,5 @@
 export const siteData = {
-  "base": "/",
+  "base": "/SGG_Webpack5/",
   "lang": "zh-CN",
   "title": "尚硅谷 Web 前端之 Webpack5 教程",
   "description": "Webpack5从小白到大神",
